@@ -1,4 +1,4 @@
-package Day01;
+package day01;
 
 public class MovieMain {
     public static void main(String[] args) {
